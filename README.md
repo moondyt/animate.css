@@ -3,7 +3,7 @@
 
 `animate.css` is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
 
-***翻译：** Docpress 是一个可将项目中的文档生成为可视化网站界面的工具。其中，需要有至少一个 README.md 文件。该文件支持 docs 目录下的多 markdown 格式页面。*
+***翻译：Docpress 是一个可将项目中的文档生成为可视化网站界面的工具。其中，需要有至少一个 README.md 文件。该文件支持 docs 目录下的多 markdown 格式页面。***
 
 ##Basic Usage
 1. Include the stylesheet on your document's `<head>`

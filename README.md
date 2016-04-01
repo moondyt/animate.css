@@ -3,11 +3,11 @@
 
 `animate.css` is a bunch of cool, fun, and cross-browser animations for you to use in your projects.
 
-*翻译：“animate.css”是一堆很酷，很有趣，很炫又能跨浏览器的动画效果样式集锦，我们可以运用在项目中*
+*<small>翻译：“animate.css”是一堆很酷，很有趣，很炫又能跨浏览器的动画效果样式集锦，我们可以运用在项目中<small>*
 
 ##Basic Usage 
 
-*要在你的项目中使用，简单的很，就是三步完成*
+<small>要在你的项目中使用，就是三步完成<small>
 
 1. Include the stylesheet on your document's `<head>`
 

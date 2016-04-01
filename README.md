@@ -11,7 +11,7 @@
 
 1. Include the stylesheet on your document's `<head>`
 
-*    包括一个外部样式，在<head>节点上*
+    *包括一个外部样式，在<head>节点上*
 
   ```html
   <head>
@@ -21,11 +21,11 @@
 2. Add the class `animated` to the element you want to animate.
  You may also want to include the class `infinite` for an infinite loop.
 
-*    添加一个“animated”类在动画元素上。也可以添加“infinite”类，形成无线循环动画。*
+    *添加一个“animated”类在动画元素上。也可以添加“infinite”类，形成无线循环动画。*
 
 3. Finally you need to add one of the following classes:
 
-*    最后，在下列动画效果中添加一个。*
+    *最后，在下列动画效果中添加一个。*
 
   * `bounce`
   * `flash`

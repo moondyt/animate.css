@@ -1,13 +1,15 @@
 #Animate.css
 *Just-add-water CSS animation*
 
-`animate.css` is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
+`animate.css` is a bunch of cool, fun, and cross-browser animations for you to use in your projects.
 
-*翻译：Docpress 是一个可将项目中的文档生成为可视化网站界面的工具。其中，需要有至少一个 README.md 文件。该文件支持 docs 目录下的多 markdown 格式页面。*
+*翻译：“animate.css”是一堆很酷，很有趣，很炫又能跨浏览器的动画效果样式集锦，我们可以运用在项目中*
 
-##Basic Usage
+##Basic Usage 
+*要在你的项目中使用，简单的很，就是三步完成*
+
 1. Include the stylesheet on your document's `<head>`
-
+*包括一个外部样式，在<head>节点上*
   ```html
   <head>
     <link rel="stylesheet" href="animate.min.css">
@@ -15,8 +17,10 @@
   ```
 2. Add the class `animated` to the element you want to animate.
  You may also want to include the class `infinite` for an infinite loop.
+*添加一个“animated”类在动画元素上。也可以添加“infinite”类，形成无线循环动画。*
 
 3. Finally you need to add one of the following classes:
+*最后，在下列动画效果中添加一个。*
 
   * `bounce`
   * `flash`
